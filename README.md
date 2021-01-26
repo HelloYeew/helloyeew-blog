@@ -1,5 +1,7 @@
 # HelloYeew's Blog
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0505c8dc-4570-4fbf-9fd6-5bbc718a3355/deploy-status)](https://app.netlify.com/sites/helloyeew-blog/deploys)
+
 My personal blog use Gatsby theme Novela.
 
 # About Gatsby theme Novela
